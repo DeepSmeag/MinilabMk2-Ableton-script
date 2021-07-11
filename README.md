@@ -44,4 +44,4 @@
 ### 2. Place the folder in your Ableton folder under \Resources\MIDI Remote Scripts\ 
 ### 3. Import the minilab preset using the MIDI Control Center and use it as the 8th bank
 ### 4. You are now ready to start Ableton and go to settings, control surfaces and select the script (you are looking for the folder's name)
-- This means that you may change the folder's name as you desire, I only chose to name it so as to have it as the first script in the dropdown list (they are alphabetically ordered).
+- This means that you may change the folder's name as you desire, I only chose to name it this way so as to have it as the first script in the dropdown list (they are alphabetically ordered).
