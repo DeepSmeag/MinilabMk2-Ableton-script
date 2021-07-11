@@ -51,5 +51,15 @@
 - I am an enthusiast, hobbyist, member of the community. I am not a professional programmer for Arturia or Ableton and I do not own software created by them.
 - I do use some code written by Arturia and Ableton's API, but most of the project is my own work.
 - I do not profit from this project in any financial way.
-- Anyone may use my code to develop their own scripts based on their own preferences, as long as credit is provided.
+- Anyone may use and modify my code to develop their own scripts based on their own preferences, as long as credit is provided if the work is published.
 - The use of Arturia's and Ableton's property comes at the companies' own discretion.
+
+
+#For Developers
+### Here are useful resources for learning about this kind of scripts
+- https://julienbayle.studio/PythonLiveAPI_documentation/Live10.1.19.xml
+- http://remotescripts.blogspot.com/
+- https://livecontrol.q3f.org/ableton-liveapi/articles/introduction-to-the-framework-classes/
+- https://forum.arturia.com/index.php?topic=93714.0
+- https://forum.ableton.com/viewtopic.php?t=200513
+#### The code is written in Python
