@@ -62,3 +62,8 @@
 - https://forum.arturia.com/index.php?topic=93714.0
 - https://forum.ableton.com/viewtopic.php?t=200513
 #### The code is written in Python
+
+
+### [Link to original forum post](https://forum.arturia.com/index.php?topic=102839.0)
+
+### For suggestions, issues and others, please use the Issues section. It helps with organization.
