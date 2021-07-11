@@ -45,3 +45,11 @@
 ### 3. Import the minilab preset using the MIDI Control Center and use it as the 8th bank
 ### 4. You are now ready to start Ableton and go to settings, control surfaces and select the script (you are looking for the folder's name)
 - This means that you may change the folder's name as you desire, I only chose to name it this way so as to have it as the first script in the dropdown list (they are alphabetically ordered).
+
+
+# Disclaimer
+- I am an enthusiast, hobbyist, member of the community. I am not a professional programmer for Arturia or Ableton and I do not own software created by them.
+- I do use some code written by Arturia and Ableton's API, but most of the project is my own work.
+- I do not profit from this project in any financial way.
+- Anyone may use my code to develop their own scripts based on their own preferences, as long as credit is provided.
+- The use of Arturia's and Ableton's property comes at the companies' own discretion.
