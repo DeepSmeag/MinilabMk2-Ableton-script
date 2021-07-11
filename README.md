@@ -55,7 +55,7 @@
 - The use of Arturia's and Ableton's property comes at the companies' own discretion.
 
 
-#For Developers
+# For Developers
 ### Here are useful resources for learning about this kind of scripts
 - https://julienbayle.studio/PythonLiveAPI_documentation/Live10.1.19.xml
 - http://remotescripts.blogspot.com/
