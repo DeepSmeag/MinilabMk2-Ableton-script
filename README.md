@@ -6,13 +6,8 @@
 
 ## Pads:
 - Only pads 1-8 control clips now, specifically the clips of the selected scene , pads 9-16 now have modified functionality
-- Pads 1-8 now have different colors to signal the state of the clip: </br> 🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
+- Pads 1-8 now have different colors to signal the state of the clip: </br> 
 
-🟥🟧🟨🟩🟦🟪🟫⬛⬜🔲🔳⏹☑✅❎
-
-❤️🧡💛💚💜💙🤎🖤🤍♥️💔💖💘💝💗💓💟💕❣️♡
-
-🔺🔻🔷🔶🔹🔸♦💠💎💧🧊
   #### 🟢Playing - green🟢;</br> 
   #### 🔴Recording - red;🔴</br>
   #### 🟣Will record when triggered - magenta/purple;🟣</br>
