@@ -43,9 +43,8 @@
 ### 1. Download the folder and the minilab preset. 
 ### 2. Place the folder in your Ableton folder under \Resources\MIDI Remote Scripts\ 
 ### 3. Import the minilab preset using the MIDI Control Center and use it as the 8th bank
-### 4. You are now ready to start Ableton and go to settings, control surfaces and select the script (you are looking for the folder's name)
+### 4. You are now ready to start Ableton and go to preferences, MIDI, control surface and select the script (you are looking for the folder's name). Input and Output has to be from MiniLab Mk2
 - This means that you may change the folder's name as you desire, I only chose to name it this way so as to have it as the first script in the dropdown list (they are alphabetically ordered).
-
 
 # Disclaimer
 - I am an enthusiast, hobbyist, member of the community. I am not a professional programmer for Arturia or Ableton and I do not own software created by them.
