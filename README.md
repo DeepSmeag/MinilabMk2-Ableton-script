@@ -50,7 +50,7 @@
 
 
 # For Developers
-### Here are useful resources for learning about this kind of scripts
+### Here are some useful resources for learning about this kind of scripts
 - https://julienbayle.studio/PythonLiveAPI_documentation/Live10.1.19.xml
 - http://remotescripts.blogspot.com/
 - https://livecontrol.q3f.org/ableton-liveapi/articles/introduction-to-the-framework-classes/
@@ -62,3 +62,7 @@
 ### [Link to original forum post](https://forum.arturia.com/index.php?topic=102839.0)
 
 ### For suggestions, issues and others, please use the Issues section. It helps with organization.
+
+# Links to related projects by other members of the community:
+
+@soneu03: https://github.com/soneu03/Ableton_Minilab_project
