@@ -50,7 +50,7 @@
 
 
 # For Developers
-### Here are some useful resources for learning about this kind of scripts
+### Here are some useful resources for learning about these kinds of scripts
 - https://julienbayle.studio/PythonLiveAPI_documentation/Live10.1.19.xml
 - http://remotescripts.blogspot.com/
 - https://livecontrol.q3f.org/ableton-liveapi/articles/introduction-to-the-framework-classes/
