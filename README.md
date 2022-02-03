@@ -35,7 +35,8 @@
 ### Colors can be modified in the script files
 
 # Setup
-### 1. Download the folder and the minilab preset. 
+### 0. Go to Versions and select the script version you need (based on Live version)
+### 1. Download the corresponding folder and the minilab preset. (or the whole repository)
 ### 2. Place the folder in your Ableton folder under \Resources\MIDI Remote Scripts\ 
 ### 3. Import the minilab preset using the MIDI Control Center and use it as the 8th bank
 ### 4. You are now ready to start Ableton and go to preferences, MIDI, control surface and select the script (you are looking for the folder's name). Input and Output has to be from MiniLab Mk2
