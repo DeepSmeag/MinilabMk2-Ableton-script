@@ -39,7 +39,7 @@
 # Setup
 ### 0. Go to Versions and select the script version you need (based on Live version)
 ### 1. Download the corresponding folder and the minilab preset. (or the whole repository)
-### 2. Place the folder in your Ableton folder under \Resources\MIDI Remote Scripts\ 
+### 2. Place the folder in your Ableton folder under \Resources\MIDI Remote Scripts\ (As of Live 10.1.13, it is possible to create a “Remote Scripts” folder in the User Library where you can add your third-party remote scripts. These scripts will then appear in Live's Preferences under Link/MIDI.)
 ### 3. Import the minilab preset using the MIDI Control Center and use it as the 8th bank
 ### 4. You are now ready to start Ableton and go to preferences, MIDI, control surface and select the script (you are looking for the folder's name). Input and Output has to be from MiniLab Mk2
 - This means that you may change the folder's name as you desire, I only chose to name it this way so as to have it as the first script in the dropdown list (they are alphabetically ordered).
