@@ -1,3 +1,5 @@
+# ❗Update May 13th, 2022❗
+### Accepted a pull request regarding installation options; only changed readme file
 # ❗Update February 3rd, 2022❗
 ### Added Live11 version of the script
 ### Many thanks to a forum member who found the necessary change
