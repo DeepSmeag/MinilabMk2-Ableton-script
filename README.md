@@ -36,6 +36,13 @@
 
 ### Colors can be modified in the script files
 
+## Extra
+A helpful cheatsheet was created by @dodedodo (https://github.com/dodedodo)  
+Link to issue: https://github.com/DeepSmeag/MinilabMk2-Ableton-script/issues/10  
+Image:  
+![image of cheatsheet for buttons, printable](https://user-images.githubusercontent.com/3252036/204809031-29ee41c1-c4b5-4874-8069-248be0f3ef59.png)
+
+
 # Setup
 ### 0. Go to Versions and select the script version you need (based on Live version)
 ### 1. Download the corresponding folder and the minilab preset. (or the whole repository)
