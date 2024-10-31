@@ -1,5 +1,10 @@
 #### Last update: October 31st, 2024 (should work on Live12 as well)
 
+Thanks to:
+- @ManuelR-D for Live12 update
+- @dodedodo for cheatsheet (see below) & comments on Live11 update
+- @soneu03 for their own version of the script (see at bottom)
+
 # MinilabMk2-Ableton-script
 ### This project is intended for those who are into music production, have a Minilab Mk2 MIDI controller and use Ableton Live as their DAW.
 ### This script comes as a modified version of the Ableton mode that the Minilab Mk2 controller offers to users, based on personal preferences and public suggestions.
