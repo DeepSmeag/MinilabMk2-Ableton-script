@@ -79,7 +79,7 @@ class test(ControlSurface):          # create a class element
         self._device_controls = ButtonMatrixElement(rows=[ [ EncoderElement(MIDI_CC_TYPE, self.encoder_msg_channel, identifier, Live.MidiMap.MapMode.relative_smooth_two_compliment, name='Encoder_%d_%d' % (column_index, row_index)) for column_index, identifier in enumerate(row) ] for row_index, row in enumerate((self.encoder_msg_ids[:4], self.encoder_msg_ids[8:12]))
                                                          ])
         
-        self._horizontal_scroll_encoder = EncoderElement(MIDI_CC_TYPE, self.encoder_msg_channel, self.encoder_msg_ids[7], Live.MidiMap.MapMode.relative_smooth_binary_offset, name='Horizontal_Scroll_Encoder')
+        self._horizontal_scroll_encoder = EncoderElement(MIDI_CC_TYPE, self.encoder_msg_channel, self.encoder_msg_ids[7], Live.MidiMap.MapMode.relative_smooth_two_compliment, name='Horizontal_Scroll_Encoder')
 
 ##        self._vertical_scroll_encoder = EncoderElement(MIDI_CC_TYPE, self.encoder_msg_channel, self.encoder_msg_ids[15], Live.MidiMap.MapMode.relative_smooth_two_compliment, name='Vertical_Scroll_Encoder')
         self._master_volume_encoder = EncoderElement(MIDI_CC_TYPE, self.encoder_msg_channel, self.encoder_msg_ids[15], Live.MidiMap.MapMode.relative_smooth_two_compliment, name='Vertical_Scroll_Encoder')
